@@ -1,0 +1,24 @@
+{
+  "name": "image-service-rest-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --watch index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JordiEspinozaMendoza/image-service-rest-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JordiEspinozaMendoza/image-service-rest-api/issues"
+  },
+  "homepage": "https://github.com/JordiEspinozaMendoza/image-service-rest-api#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
